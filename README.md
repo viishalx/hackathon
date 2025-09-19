@@ -1,8 +1,4 @@
-# hackathon
-this is my first repo
-## Simple Frontend Page
-
-```html
+''html
 <!DOCTYPE html>
 <html lang="en">
 <head>
